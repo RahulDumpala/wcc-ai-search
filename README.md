@@ -1,6 +1,6 @@
 # WebCenter Content AI Search
 
-A production-grade Retrieval-Augmented Generation (RAG) pipeline that enables natural language search over Oracle WebCenter Content (WCC/UCM) document repositories — running entirely on-premise with zero data leaving the network.
+A Retrieval-Augmented Generation (RAG) pipeline that enables natural language search over Oracle WebCenter Content (WCC/UCM) document repositories — running entirely on-premise with zero data leaving the network.
 
 ## Problem
 
